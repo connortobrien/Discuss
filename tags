@@ -1,0 +1,67 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+COW_INLINE_HRL	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(COW_INLINE_HRL, 1).$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, A2, A3, A4, A5, A6, A7, A8, A9, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, A2, A3, A4, A5, A6, A7, A8, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, A2, A3, A4, A5, A6, A7, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, A2, A3, A4, A5, A6, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, A2, A3, A4, A5, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, A2, A3, A4, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, A2, A3, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, A2, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, A1, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, A0, Acc),$/;"	d
+INLINE_LOWERCASE	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE(Function, Rest, Acc),$/;"	d
+INLINE_LOWERCASE_BC	_build/dev/lib/cowlib/include/cow_inline.hrl	/^-define(INLINE_LOWERCASE_BC(Bin),$/;"	d
+__makeRelativeRequire	_build/dev/lib/discuss/priv/static/js/app.js	/^var __makeRelativeRequire = function(require, mappings, pref) {$/;"	f
+__makeRelativeRequire	priv/static/js/app.js	/^var __makeRelativeRequire = function(require, mappings, pref) {$/;"	f
+__makeRelativeRequire.tryReq	_build/dev/lib/discuss/priv/static/js/app.js	/^  var tryReq = function(name, pref) {$/;"	f
+__makeRelativeRequire.tryReq	priv/static/js/app.js	/^  var tryReq = function(name, pref) {$/;"	f
+_resolve	_build/dev/lib/discuss/priv/static/js/app.js	/^  var _resolve = function(name, dep) {$/;"	f
+_resolve	priv/static/js/app.js	/^  var _resolve = function(name, dep) {$/;"	f
+addExtensions	_build/dev/lib/discuss/priv/static/js/app.js	/^  var addExtensions = function(bundle) {$/;"	f
+addExtensions	priv/static/js/app.js	/^  var addExtensions = function(bundle) {$/;"	f
+buildFreshUrl	_build/dev/lib/phoenix_live_reload/priv/static/phoenix_live_reload.js	/^var buildFreshUrl = function(link){$/;"	f
+buildFreshUrl.onComplete	_build/dev/lib/phoenix_live_reload/priv/static/phoenix_live_reload.js	/^  var onComplete = function() { link.remove() }$/;"	f
+chan	_build/dev/lib/phoenix_live_reload/priv/static/phoenix_live_reload.js	/^var chan = socket.channel('phoenix:live_reload', {})$/;"	v
+cssStrategy	_build/dev/lib/phoenix_live_reload/priv/static/phoenix_live_reload.js	/^var cssStrategy = function(){$/;"	f
+dirname	_build/dev/lib/discuss/priv/static/js/app.js	/^  var dirname = function(path) {$/;"	f
+dirname	priv/static/js/app.js	/^  var dirname = function(path) {$/;"	f
+expRe	_build/dev/lib/discuss/priv/static/js/app.js	/^  var expRe = \/^\\.\\.?(\\\/|$)\/;$/;"	v
+expRe	priv/static/js/app.js	/^  var expRe = \/^\\.\\.?(\\\/|$)\/;$/;"	v
+expand	_build/dev/lib/discuss/priv/static/js/app.js	/^  var expand = function(root, name) {$/;"	f
+expand	priv/static/js/app.js	/^  var expand = function(root, name) {$/;"	f
+expandAlias	_build/dev/lib/discuss/priv/static/js/app.js	/^  var expandAlias = function(name) {$/;"	f
+expandAlias	priv/static/js/app.js	/^  var expandAlias = function(name) {$/;"	f
+exports.config.files	brunch-config.js	/^  files: {$/;"	p
+extRe	_build/dev/lib/discuss/priv/static/js/app.js	/^  var extRe = \/\\.[^.\\\/]+$\/;$/;"	v
+extRe	priv/static/js/app.js	/^  var extRe = \/\\.[^.\\\/]+$\/;$/;"	v
+globals	_build/dev/lib/discuss/priv/static/js/app.js	/^  var globals = typeof global === 'undefined' ? self : global;$/;"	v
+globals	priv/static/js/app.js	/^  var globals = typeof global === 'undefined' ? self : global;$/;"	v
+handleLinkClick	_build/dev/lib/phoenix_html/priv/static/phoenix_html.js	/^  function handleLinkClick(link) {$/;"	f
+hmr	_build/dev/lib/discuss/priv/static/js/app.js	/^  var hmr = globals._hmr && new globals._hmr(_resolve, require, modules, cache);$/;"	v
+hmr	priv/static/js/app.js	/^  var hmr = globals._hmr && new globals._hmr(_resolve, require, modules, cache);$/;"	v
+indexRe	_build/dev/lib/discuss/priv/static/js/app.js	/^  var indexRe = \/\\\/index(\\.[^\\\/]+)?$\/;$/;"	v
+indexRe	priv/static/js/app.js	/^  var indexRe = \/\\\/index(\\.[^\\\/]+)?$\/;$/;"	v
+initModule	_build/dev/lib/discuss/priv/static/js/app.js	/^  var initModule = function(name, definition) {$/;"	f
+initModule	priv/static/js/app.js	/^  var initModule = function(name, definition) {$/;"	f
+initModule.module.exports	_build/dev/lib/discuss/priv/static/js/app.js	/^    var module = {id: name, exports: {}, hot: hot};$/;"	p
+initModule.module.exports	priv/static/js/app.js	/^    var module = {id: name, exports: {}, hot: hot};$/;"	p
+initModule.module.id	_build/dev/lib/discuss/priv/static/js/app.js	/^    var module = {id: name, exports: {}, hot: hot};$/;"	p
+initModule.module.id	priv/static/js/app.js	/^    var module = {id: name, exports: {}, hot: hot};$/;"	p
+localRequire	_build/dev/lib/discuss/priv/static/js/app.js	/^  var localRequire = function(path) {$/;"	f
+localRequire	priv/static/js/app.js	/^  var localRequire = function(path) {$/;"	f
+pageStrategy	_build/dev/lib/phoenix_live_reload/priv/static/phoenix_live_reload.js	/^var pageStrategy = function(chan){$/;"	f
+reloadStrategies.css	_build/dev/lib/phoenix_live_reload/priv/static/phoenix_live_reload.js	/^  css: cssStrategy,$/;"	p
+reloadStrategies.page	_build/dev/lib/phoenix_live_reload/priv/static/phoenix_live_reload.js	/^  page: pageStrategy$/;"	p
+repaint	_build/dev/lib/phoenix_live_reload/priv/static/phoenix_live_reload.js	/^var repaint = function(){$/;"	f
+require	_build/dev/lib/discuss/priv/static/js/app.js	/^  var require = function(name, loaderPath) {$/;"	f
+require	priv/static/js/app.js	/^  var require = function(name, loaderPath) {$/;"	f
+require.alias	_build/dev/lib/discuss/priv/static/js/app.js	/^  require.alias = function(from, to) {$/;"	f
+require.alias	priv/static/js/app.js	/^  require.alias = function(from, to) {$/;"	f
+require.list	_build/dev/lib/discuss/priv/static/js/app.js	/^  require.list = function() {$/;"	f
+require.list	priv/static/js/app.js	/^  require.list = function() {$/;"	f
