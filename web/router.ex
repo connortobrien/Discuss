@@ -9,6 +9,7 @@ defmodule Discuss.Router do
     plug :fetch_flash
     plug :protect_from_forgery
     plug :put_secure_browser_headers
+    plug Discuss.Plugs.SetUser
   end
 
   pipeline :api do
@@ -30,6 +31,7 @@ defmodule Discuss.Router do
   scope "/auth", Discuss do
     pipe_through :browser # Use the default browser stack
 
+    get "/signout", AuthController, :signout
     get "/:provider", AuthController, :request # defined by Ueberauth module
     get "/:provider/callback", AuthController, :callback
   end
