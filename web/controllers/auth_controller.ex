@@ -9,7 +9,7 @@ defmodule Discuss.AuthController do
 
   def callback(
     %{assigns: %{ueberauth_auth: auth}} = conn,
-    %{"provider" => provider} = params
+    %{"provider" => provider} = _params
   ) do
     user_params = %{
       token: auth.credentials.token,

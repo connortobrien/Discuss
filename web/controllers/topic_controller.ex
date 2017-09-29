@@ -29,7 +29,7 @@ defmodule Discuss.TopicController do
       {:error, changeset} ->
         conn
         |> put_flash(:error, "Warning: Topic Not Saved")
-        |> render "new.html", changeset: changeset
+        |> render("new.html", changeset: changeset)
     end
   end
 
