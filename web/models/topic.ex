@@ -7,6 +7,7 @@ defmodule Discuss.Topic do
 
   schema "topics" do # <- database name
     field :title, :string
+    belongs_to :user, Discuss.User
   end
 
   def changeset(struct, params \\ %{}) do
